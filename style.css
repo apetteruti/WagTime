@@ -19,18 +19,12 @@
 }
 
 .jumbotron{
-<<<<<<< Updated upstream
     opacity: 0.1;
     filter: alpha(opacity=50); /* For IE8 and earlier */
-    color: white;
-
-    
+    color: white;  
 }
 
 .dogs{
     background-image: url(doggies.jpg);
     height: 600px;
-=======
-    text-align: center;
->>>>>>> Stashed changes
 }
