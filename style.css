@@ -19,9 +19,22 @@
 }
 
 .jumbotron{
-    opacity: 0.1;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
-    color: white;  
+    background: rgba(0, 0, 80, 0);
+    text-align: right;
+    text-shadow: black;
+}
+
+.jumbotron h1{
+    color:black;
+    font-weight: bold;
+}
+
+.jumbotron p{
+    text-align:right;
+    font-weight: bold;
+    font-size-adjust: 0.98;
+    Color:cyan;
+    text-shadow: black;
 }
 
 .dogs{
