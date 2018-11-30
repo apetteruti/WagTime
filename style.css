@@ -28,3 +28,7 @@
     background-image: url(doggies.jpg);
     height: 600px;
 }
+
+input{
+    width: 100%;
+}
