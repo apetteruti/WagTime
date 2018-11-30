@@ -17,3 +17,12 @@
     padding-right: 20px;
 
 }
+
+.jumbotron{
+    
+}
+
+.dogs{
+    background-image: url(doggies.jpg);
+    height: 600px;
+}
