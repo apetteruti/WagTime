@@ -19,10 +19,14 @@
 }
 
 .jumbotron{
+<<<<<<< Updated upstream
     
 }
 
 .dogs{
     background-image: url(doggies.jpg);
     height: 600px;
+=======
+    text-align: center;
+>>>>>>> Stashed changes
 }
